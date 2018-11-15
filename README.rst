@@ -1,4 +1,4 @@
-SandCube Robotic Test Automation (RTA)
+Robotic Test Automation (RTA)
 ===============
 
 .. contents::
