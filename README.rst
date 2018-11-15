@@ -1,4 +1,4 @@
-Robotic Test Automation (RTA)
+Enterprise Robotic Test Automation (E-RTA)
 ===============
 
 .. contents::
